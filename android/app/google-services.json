@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344419429654",
+    "project_id": "gamers-gear-7bcf3",
+    "storage_bucket": "gamers-gear-7bcf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344419429654:android:5f5af6223e5567ab253437",
+        "android_client_info": {
+          "package_name": "com.example.avaliacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344419429654-6c701124r5tmc9a5hv2jt0gqljb488ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiifs3RzYZZAKFsz11yIRddXvX7YXtpLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344419429654-6c701124r5tmc9a5hv2jt0gqljb488ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
